@@ -5,7 +5,7 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Aqui apresento a minha t
 ---
 
 ## 👩‍💻 Sobre Mim
-Desenvolvedora de Software em formação pela **CESAR School** e **FICR**. Tenho experiência prática com Python, JavaScript e React, focando na criação de interfaces acessíveis e APIs eficientes. Possuo um forte histórico em liderança técnica de robótica e metodologias ágeis.
+Desenvolvedora de Software em formada pela **CESAR School** e em formação pela **FICR**. Tenho experiência prática com Python, JavaScript e React, focando na criação de interfaces acessíveis e APIs eficientes. Possuo um forte histórico em liderança técnica de robótica e metodologias ágeis.
 
 - 📍 Localização: Paulista - PE
 - 📧 Contacto: [mlrfs.dev@gmail.com](mailto:mlrfs.dev@gmail.com)
