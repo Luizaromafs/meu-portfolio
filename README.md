@@ -50,7 +50,7 @@ Para ver o site localmente:
 2. Abra o ficheiro `index.html` em qualquer navegador.
 
 Ou aceda ao site online através do link:
-**[SEU-LINK-AQUI-DO-GITHUB-PAGES]**
+
 
 ---
 🎨 *Desenvolvido por Maria Luiza Roma*
